@@ -22,7 +22,7 @@
 	</ul>
 	<h2>Instruções:</h2>
 	<ol>
-		<li>Crie um projeto Java Web utilizando o Eclipse IDE;</li>
+		<li>Crie um projeto Java Web utilizando o IntelliJ IDEA;</li>
 		<li>Adicione a biblioteca do Apache Tomcat ao projeto;</li>
 		<li>Crie um servlet que responda às requisições HTTP;</li>
 		<li>Utilize o método "doGet" para receber as requisições HTTP GET;</li>
