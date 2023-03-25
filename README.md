@@ -30,11 +30,5 @@
 		<li>Utilize o objeto "HttpServletResponse" para gerar uma resposta adequada;</li>
 		<li>Teste a aplicação utilizando um navegador web.</li>
 	</ol>
-  <div>
-  ![image](https://user-images.githubusercontent.com/89655803/227689047-3564ef8f-08b7-4ed9-9602-ad25376b7721.png)
-  ![image](https://user-images.githubusercontent.com/89655803/227689095-76b56625-a8f2-4948-babe-873a28db5a3b.png)
-  ![image](https://user-images.githubusercontent.com/89655803/227689106-9c73e54b-9136-4b7a-b831-0e23b99d1c55.png)
-  ![image](https://user-images.githubusercontent.com/89655803/227689122-74026deb-87e3-40f1-83c2-bb7ad5570d16.png)
-  </div>
 </body>
 </html>
