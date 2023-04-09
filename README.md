@@ -30,5 +30,18 @@
 		<li>Utilize o objeto "HttpServletResponse" para gerar uma resposta adequada;</li>
 		<li>Teste a aplicação utilizando um navegador web.</li>
 	</ol>
+<h3>Imagens:</h3>
+<h1 align="center">
+<img src="src/Image/01.png" alt="01">
+</h1>
+<h1 align="center">
+<img src="src/Image/02.png" alt="02">
+</h1>
+<h1 align="center">
+<img src="src/Image/03.png" alt="03">
+</h1>
+<h1 align="center">
+<img src="src/Image/04.png" alt="04">
+</h1>
 </body>
 </html>
